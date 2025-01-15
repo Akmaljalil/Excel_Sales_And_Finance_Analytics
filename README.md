@@ -1,19 +1,25 @@
 # Excel_Sales_And_Finance_Analytics
 
-# Portfolio: Sales and Finance Analytics
+Welcome to my GitHub portfolio! I specialize in creating insightful analytics for sales and finance using advanced Excel capabilities. In this project, I utilized a dataset of over **1 million transactions** sourced from **four different datasets**. By employing **Power Query** and **Power Pivot**, I performed data cleaning and modeling to deliver actionable insights and comprehensive reports.
 
-Welcome to my GitHub portfolio! I specialize in leveraging Power Query, DAX, and Power Pivot to create insightful and actionable analytics reports for sales and finance domains. Below are the details of my key projects and contributions.
+Below are the links to the key reports generated during this project:
+
+- [Customer Performance Report](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/Customer%20Performance%20Report.pdf)
+- [Market Performance vs. Target Report](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+- [Profit & Loss (P&L) Statement by Fiscal Year](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- [P&L Statement by Market Segments](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+- [P&L Statement by Months](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ---
 
 ## Sales Report
 
 ### **Project Objectives:**
-1. Develop a detailed [Customer Performance Report](#) to analyze customer metrics and performance trends.
-2. Conduct an in-depth comprehensive comparison between [market performance and sales targets](#).
+1. Develop a detailed [Customer Performance Report](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/Customer%20Performance%20Report.pdf) to analyze customer metrics and performance trends.
+2. Conduct an in-depth comparison between [market performance and sales targets](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 ### **Purpose of Sales Analytics:**
-Utilize advanced analytics to track and evaluate sales activities, providing actionable insights to enhance overall performance.
+Leverage advanced analytics to track and evaluate sales activities, providing insights that enhance overall performance.
 
 ### **Significance of Analyzing Sales Data:**
 - Identify emerging sales trends and opportunities.
@@ -22,7 +28,7 @@ Utilize advanced analytics to track and evaluate sales activities, providing act
 
 ### **Role of Reports:**
 - Define optimal discount strategies for customers.
-- Enhance negotiation tactics based on data insights.
+- Enhance negotiation tactics with data-backed insights.
 - Highlight potential markets for business expansion.
 
 ---
@@ -30,20 +36,22 @@ Utilize advanced analytics to track and evaluate sales activities, providing act
 ## Finance Report
 
 ### **Project Objectives:**
-1. Create comprehensive Profit and Loss (P&L) reports segmented by [Fiscal Year](#) and [Monthly](#).
-2. Develop P&L reports categorized by [Market Segments](#).
+1. Create comprehensive Profit and Loss (P&L) reports segmented by:
+   - [Fiscal Year](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+   - [Market Segments](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+   - [Months](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ### **Purpose of Financial Analytics:**
 Evaluate financial performance, support strategic decision-making, and facilitate clear communication with stakeholders.
 
 ### **Significance of Analyzing Financial Data:**
 - Compare performance with industry benchmarks and historical data.
-- Establish a foundation for budgeting and future forecasting.
+- Establish a foundation for budgeting and forecasting.
 - Identify areas for financial optimization and strategic investments.
 
 ### **Role of Reports:**
 - Align financial strategies with organizational goals.
-- Strengthen confidence in financial projections and reports.
+- Strengthen confidence in financial projections.
 - Enhance stakeholder understanding of financial insights.
 
 ---
@@ -72,13 +80,3 @@ Evaluate financial performance, support strategic decision-making, and facilitat
 - Highly adaptable and quick to learn new tools and methodologies.
 
 ---
-
-## Connect with Me
-Feel free to reach out for any questions, collaboration opportunities, or feedback:
-- [LinkedIn](https://www.linkedin.com/in/shafana-09579328b/)
-- [Email](mailto:your-email@example.com)
-
----
-
-### Thank You!
-Thank you for exploring my portfolio. I look forward to contributing my skills and expertise to impactful projects!
