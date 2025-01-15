@@ -8,7 +8,6 @@ Below are the links to the key reports generated during this project:
 - [Market Performance vs. Target Report](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 - [Profit & Loss (P&L) Statement by Fiscal Year](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 - [P&L Statement by Market Segments](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
-- [P&L Statement by Months](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ---
 
@@ -39,8 +38,7 @@ Leverage advanced analytics to track and evaluate sales activities, providing in
 1. Create comprehensive Profit and Loss (P&L) reports segmented by:
    - [Fiscal Year](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
    - [Market Segments](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
-   - [Months](https://github.com/Akmaljalil/Excel_Sales_And_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
-
+   
 ### **Purpose of Financial Analytics:**
 Evaluate financial performance, support strategic decision-making, and facilitate clear communication with stakeholders.
 
